@@ -1,6 +1,6 @@
 ### Olaa! 👋 Bem vindo ao meu perfil.
 
-Meu nome é Henrique Cabral Ferraz e sou programador front end com aspirações para o back end 💻__ Atualmente, estou estudando as seguintes tecnologias: 
+Meu nome é Henrique Cabral Ferraz e sou programador front end com aspirações para o back end 💻 </br> Atualmente, estou estudando as seguintes tecnologias: 
  - Javascript
  - React JS
  - HTML
