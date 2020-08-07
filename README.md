@@ -1,7 +1,21 @@
-### Hi there 👋
+### Olaa! 👋 Bem vindo ao meu perfil.
 
-Meu nome é Henrique Cabral Ferraz e sou programador front end com aspirações para o back end.
-Aqui você pode encontrar os repositórios de projetos que estou trabalhando e de tecnologias que estou desenvolvendo.
+Meu nome é Henrique Cabral Ferraz e sou programador front end com aspirações para o back end 💻
+Atualmente, estou estudando as seguintes tecnologias: 
+ - Javascript
+ - React JS
+ - HTML
+ - CSS
+ - Node JS
+ 
+Coisas sobre mim: 
+  - 😄 Adoro aprender coisas novas
+  - 👯 Gosto de trabalhar em colaboração com pessoas proativas
+  - 🐶 Adoro animais 
+  - 🎮 Adoro jogar
+
+Pode entrar em contato comigo por aqui: 
+  - 📫 [LinkedIn](https://www.linkedin.com/in/henrique-cabral-ferraz-8b2b68163/)
 
 <!--
 **HCFerraz/HCFerraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
