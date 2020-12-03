@@ -8,8 +8,6 @@ Meu nome é Henrique Cabral Ferraz e sou programador front end com aspirações 
  - CSS
  - Node JS
  
- - 🌱 Estou focado em aprender mias sobre Next JS e React JS...
- 
 Coisas sobre mim: 
   - 😄 Adoro aprender coisas novas
   - 👯 Gosto de trabalhar em colaboração com pessoas proativas
